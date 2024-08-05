@@ -1,1 +1,1 @@
-Test
+Laravel Projesi Şablonu
